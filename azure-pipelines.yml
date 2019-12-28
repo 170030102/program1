@@ -39,7 +39,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "python2.py"
+- script: python "python3.py"
 
 
 
